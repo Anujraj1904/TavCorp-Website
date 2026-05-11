@@ -49,7 +49,7 @@ export const faqSections = [
         question: "What if I'm not sure what I need?",
         answer: "We help you figure that out. Start with a consultation or guided onboarding.",
         linkText: "Get Clarity →",
-        link: "https://tavcorp.setmore.com/services/2428390c-3fe9-41da-aee6-08d0875bbcd3",
+        link: "https://tavcorp.setmore.com/book?step=time-slot&products=2428390c-3fe9-41da-aee6-08d0875bbcd3&type=service&staff=2a84c557-4fb9-4f8b-ad7f-2a7f76c65134&staffSelected=true",
       },
       {
         id: 8,
@@ -110,7 +110,7 @@ export const faqSections = [
         question: "What does strategy & consulting include?",
         answer: "Brand positioning, product direction, and growth systems tailored to execution.",
         linkText: "Book a Strategy Session →",
-        link: "https://tavcorp.setmore.com/services/4cb6ed61-6e63-452e-a5b8-a6bfa27744b7",
+        link: "https://tavcorp.setmore.com/book?step=time-slot&products=4cb6ed61-6e63-452e-a5b8-a6bfa27744b7&type=service&staff=2a84c557-4fb9-4f8b-ad7f-2a7f76c65134&staffSelected=true",
       },
       {
         id: 16,
@@ -124,7 +124,7 @@ export const faqSections = [
         question: "How do subscriptions work?",
         answer: "You get ongoing access to services through a structured, request-based system.",
         linkText: "View Plans →",
-        link: "/SignUpPage",
+        link: "/contact",
       },
       {
         id: 18,
@@ -150,14 +150,14 @@ export const faqSections = [
         question: "Can TavCorp support me long-term?",
         answer: "Yes. We're built for ongoing partnerships, not one-off transactions.",
         linkText: "Become a Partner →",
-        link: "/SignUpPage",
+        link: "/contact",
       },
       {
         id: 21,
         question: "Can I scale my plan as I grow?",
         answer: "Yes. Upgrade, expand, or customize anytime.",
         linkText: "Scale With TavCorp →",
-        link: "/SignUpPage",
+        link: "/contact",
       },
       {
         id: 22,
@@ -199,7 +199,7 @@ export const faqSections = [
         question: "Do you offer custom solutions beyond listed services?",
         answer: "Yes. We build around your needs, not fixed packages.",
         linkText: "Request Custom Solution →",
-        link: "https://tavcorp.setmore.com/services/ff7be37e-4078-4e86-9693-0d4feef4daf5",
+        link: "https://tavcorp.setmore.com/book?step=time-slot&products=ff7be37e-4078-4e86-9693-0d4feef4daf5&type=service&staff=2a84c557-4fb9-4f8b-ad7f-2a7f76c65134&staffSelected=true",
       },
       {
         id: 28,
@@ -213,7 +213,7 @@ export const faqSections = [
         question: "Why TavCorp at scale?",
         answer: "Because fragmented systems break growth. TavCorp keeps everything aligned—design, tech, AI, and strategy in one flow.",
         linkText: "Work With TavCorp →",
-        link: "/SignUpPage",
+        link: "/contact",
       },
       {
         id: 30,
@@ -221,7 +221,7 @@ export const faqSections = [
         answer: "Most clients come in for one service - and stay because everything starts working better together.",
         links: [
           { text: "Start Your First Request →", url: "/start-project" },
-          { text: "Book a Strategy Call →", url: "https://verafromtavcorp.setmore.com/services/4cb6ed61-6e63-452e-a5b8-a6bfa27744b7", prefix: "or" },
+          { text: "Book a Strategy Call →", url: "https://tavcorp.setmore.com/book?step=time-slot&products=4cb6ed61-6e63-452e-a5b8-a6bfa27744b7&type=service&staff=2a84c557-4fb9-4f8b-ad7f-2a7f76c65134&staffSelected=true", prefix: "or" },
           { text: "Explore Products →", url: "/store", prefix: "or you could" }
         ]
       }
